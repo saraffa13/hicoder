@@ -1,0 +1,21 @@
+.Body3subBox1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 90vh;
+}
+.Body3subBox1div1{
+    margin: 2rem;
+    width: 40vw;
+    /* max-height: 80vh; */
+}
+.Body3subBox1div2 img{
+    /* margin: 2rem; */
+    /* max-height: 80vh; */
+    width: 40vw;
+}
+.Body3subBox1div2{
+    margin: 2rem;
+    width: 40vw;
+    /* max-height: 80vh; */
+}

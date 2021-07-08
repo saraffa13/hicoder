@@ -1,0 +1,24 @@
+.Body1footerdiv{
+    height: 6rem;
+    background-color: #1c3988;
+    width: 100vw;
+    color: white;
+    display: flex;
+    align-items: center;
+}
+
+.Body1footerh1{
+    margin-left: 4rem;
+    font-size: 1.4rem;
+    /* display: flex; */
+    /* align-items: center; */
+    /* width: fit-content; */
+    /* margin-right: 0; */
+    
+}
+.Body1footerh2{
+    padding: 1rem;
+    display: flex;
+    align-items: center;
+    font-size: 1.1rem;
+}

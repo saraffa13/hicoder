@@ -1,0 +1,26 @@
+.TempCard{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+
+}
+
+.TempCarddiv1{
+    width: 25%;
+    height: 100%;
+    margin-top: 0;
+    position: relative;
+    top: -2rem;
+    left: 0;
+    /* border: 2px solid green; */
+}
+.TempCarddiv1 img{
+    width: 50%;
+    /* height: inherit; */
+    /* border: 2px solid green; */
+}
+.TempCarddiv2{
+    width: 70%;
+    /* border: 2px solid green; */
+}

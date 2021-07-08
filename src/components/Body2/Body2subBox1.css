@@ -1,0 +1,32 @@
+.Body2subBox1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 90vh;
+}
+
+.Body2subBox1div1{
+    margin:2rem;
+    max-width: 40vw;
+    min-width: 40vw;
+    /* height: 60vh; */
+    
+}
+.Body2subBox1div1 img{
+    height: inherit;
+    max-width: inherit;
+    min-width: inherit;
+    
+}
+.Body2subBox1div2{
+    margin:2rem;
+    width: 40vw;
+    /* height: 60vh; */
+}
+.Body2subBox1div2 h1{
+    color:#1c3988 ;
+}
+.Body2subBox1div2 h1 span{
+    color:black
+    /* height: 60vh; */
+}
