@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/saraffa13/hicoder.git/static/css/main.b47dc8e7.chunk.css",
+    "main.js": "/saraffa13/hicoder.git/static/js/main.b9be74c9.chunk.js",
+    "main.js.map": "/saraffa13/hicoder.git/static/js/main.b9be74c9.chunk.js.map",
+    "runtime-main.js": "/saraffa13/hicoder.git/static/js/runtime-main.efed363f.js",
+    "runtime-main.js.map": "/saraffa13/hicoder.git/static/js/runtime-main.efed363f.js.map",
+    "static/css/2.081f420c.chunk.css": "/saraffa13/hicoder.git/static/css/2.081f420c.chunk.css",
+    "static/js/2.918493a0.chunk.js": "/saraffa13/hicoder.git/static/js/2.918493a0.chunk.js",
+    "static/js/2.918493a0.chunk.js.map": "/saraffa13/hicoder.git/static/js/2.918493a0.chunk.js.map",
+    "static/js/3.b4ecadb5.chunk.js": "/saraffa13/hicoder.git/static/js/3.b4ecadb5.chunk.js",
+    "static/js/3.b4ecadb5.chunk.js.map": "/saraffa13/hicoder.git/static/js/3.b4ecadb5.chunk.js.map",
+    "index.html": "/saraffa13/hicoder.git/index.html",
+    "static/css/2.081f420c.chunk.css.map": "/saraffa13/hicoder.git/static/css/2.081f420c.chunk.css.map",
+    "static/css/main.b47dc8e7.chunk.css.map": "/saraffa13/hicoder.git/static/css/main.b47dc8e7.chunk.css.map",
+    "static/js/2.918493a0.chunk.js.LICENSE.txt": "/saraffa13/hicoder.git/static/js/2.918493a0.chunk.js.LICENSE.txt",
+    "static/media/3rd.4657df0a.jpg": "/saraffa13/hicoder.git/static/media/3rd.4657df0a.jpg",
+    "static/media/4th.953f463e.jpg": "/saraffa13/hicoder.git/static/media/4th.953f463e.jpg",
+    "static/media/5th.e2305520.jpg": "/saraffa13/hicoder.git/static/media/5th.e2305520.jpg",
+    "static/media/6th.3a400892.jpg": "/saraffa13/hicoder.git/static/media/6th.3a400892.jpg",
+    "static/media/8th.00627901.jpg": "/saraffa13/hicoder.git/static/media/8th.00627901.jpg",
+    "static/media/c.d7eb76ba.png": "/saraffa13/hicoder.git/static/media/c.d7eb76ba.png",
+    "static/media/laptop.30981934.jpg": "/saraffa13/hicoder.git/static/media/laptop.30981934.jpg",
+    "static/media/logo-dark.bebae81c.png": "/saraffa13/hicoder.git/static/media/logo-dark.bebae81c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.efed363f.js",
+    "static/css/2.081f420c.chunk.css",
+    "static/js/2.918493a0.chunk.js",
+    "static/css/main.b47dc8e7.chunk.css",
+    "static/js/main.b9be74c9.chunk.js"
+  ]
+}
