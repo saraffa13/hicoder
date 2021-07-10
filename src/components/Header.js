@@ -1,4 +1,5 @@
 import Button from "./UI/Button";
+import Dropdown from "./UI/Dropdown/Dropdown";
 import './Header.css'
 import logoImage from '../images/logo-dark.png'
 const Header = () =>{
@@ -8,9 +9,9 @@ const Header = () =>{
                 <img src={logoImage} />
             </div>
             <div className="headeroptionsDiv">
-                <a href="#">HICODER +</a>
-                <a href="#">COURSE +</a>
-                <a href="#">HIRE +</a>
+                <Dropdown title="hicoder +"/>
+                <Dropdown title="course +"/>
+                <Dropdown title="hire +"/>
                 <Button>Apply Now</Button>
             </div>
         </div>

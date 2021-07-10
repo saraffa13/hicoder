@@ -1,4 +1,5 @@
-import { Fragment } from 'react';
+import { Fragment } from 'react'
+import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 import Header from './components/Header';
 import Body1 from './components/Body1';
@@ -9,6 +10,9 @@ import Body5 from './components/Body5/Body5';
 import Body1footer from './components/Body1footer';
 import Partner from './components/Partner/Partner';
 import ApplicationUsers from './components/Application/ApplicationUsers';
+
+
+
 function App() {
   return (
     <Fragment className="App">

@@ -21,11 +21,11 @@ const Body4 = () =>{
                 <Cardss title="Front End" image={imagea} para="Students learn to design, develope the UI following UX with industry standards."></Cardss>
                 <Cardss title="Front End" image={imageb} para="Students learn to design, develope the UI following UX with industry standards."></Cardss>
                 <Cardss title="Front End" image={imagec} para="Students learn to design, develope the UI following UX with industry standards."></Cardss>
-                <Cardss title="Front End" image={imaged} para="Students learn to design, develope the UI following UX with industry standards."></Cardss>
+                {/* <Cardss title="Front End" image={imaged} para="Students learn to design, develope the UI following UX with industry standards."></Cardss>
                 <Cardss title="Front End" image={imagee} para="Students learn to design, develope the UI following UX with industry standards."></Cardss>
                 <Cardss title="Front End" image={imagef} para="Students learn to design, develope the UI following UX with industry standards."></Cardss>
                 <Cardss title="Front End" image={imageg} para="Students learn to design, develope the UI following UX with industry standards."></Cardss>
-                <Cardss title="Front End" image={imageh} para="Students learn to design, develope the UI following UX with industry standards."></Cardss>
+                <Cardss title="Front End" image={imageh} para="Students learn to design, develope the UI following UX with industry standards."></Cardss> */}
             </div>
         </div>
     )
